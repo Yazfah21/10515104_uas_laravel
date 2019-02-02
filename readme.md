@@ -1,9 +1,9 @@
-##Data Diri
+## Data Diri
 - Nama : Erzy Pratama Fadryan
 - NIM : 10515104
 - Kelas : ECL - 9 Semester 7 UNIKOM
 
-##Sebelum Memulai
+## Sebelum Memulai
 Berikut adalah tools yang dibutuhkan untuk membuat project ini :
 - Web Browser 
 - PHP 7.1.3 atau lebih tinggi 
