@@ -1,1 +1,6 @@
-## UAS ECL Membuat CRUD Sederhana dan Template Pada Laravel
+## UAS ECL CRUD Sederhana dan Template Pada Laravel
+Pada project ini ditugaskan untuk membuat CRUD untuk data :
+- Kelas
+- Siswa
+- Login User
+yang dimana data Kelas dan Siswa nanti akan ditampilkan data-datanya di index masing-masing.
